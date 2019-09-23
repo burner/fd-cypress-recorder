@@ -46,7 +46,7 @@
         "react-dom": "^16.9.0",
         "react-table": "^6.10.0",
         "resub": "^1.2.2",
-        "styled-components": "^4.3.0",
+        "styled-components": "4.3.2",
         "unique-selector": "^0.4.1"
     },
     "jest": {
